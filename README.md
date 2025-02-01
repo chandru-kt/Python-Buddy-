@@ -9,4 +9,4 @@
 
 # Deployed Link
 
-(https://skcchandrukt.vercel.app/)[https://skcchandrukt.vercel.app/]
+[https://skcchandrukt.vercel.app/]
