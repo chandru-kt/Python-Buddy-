@@ -1,7 +1,7 @@
 # Python-Buddy
 
-## npm install
-## npm start
+### npm install
+### npm start
 
 # Output
 
@@ -9,4 +9,4 @@
 
 # Deployed Link
 
-[https://skcchandrukt.vercel.app/]
+[](https://skcchandrukt.vercel.app/)
